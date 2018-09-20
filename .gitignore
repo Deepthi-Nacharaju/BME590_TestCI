@@ -1,0 +1,5 @@
+.pytest_cache/
+.venv/
+__pycache__/
+first_python.pyc
+first_python_project/
