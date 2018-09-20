@@ -8,4 +8,4 @@ def test_add_three():
 def test_div_three():
     from first_python import div_three
     p = div_three(6)
-    assert p == 2
+    assert p == 3
